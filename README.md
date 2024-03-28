@@ -18,8 +18,8 @@ I'm a passionate Web Developer and AI Enthusiast! I love exploring the intersect
 
 ## 🌐 Social Links
 
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=follow&style=social)](https://github.com/huyenanhphan)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/huyenanhphan/)
+[![GitHub](https://img.shields.io/github/followers/huyenanhphan?label=follow&style=social)](https://github.com/huyenanhphan)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/huyenanhphan/)](https://www.linkedin.com/in/huyenanhphan/)
 
 ## 💡 Interests
 
@@ -27,5 +27,5 @@ I'm a passionate Web Developer and AI Enthusiast! I love exploring the intersect
 - Participating in hackathons and coding competitions.
 - Reading about the latest trends in AI and web development.
 
-Thank you for visiting my profile! Feel free to connect with me on [LinkedIn](#).
+Thank you for visiting my profile! Feel free to connect with me.
 
